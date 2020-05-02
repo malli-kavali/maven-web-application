@@ -4,25 +4,25 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>bangaloreinfo-technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center"> We have a demo on DevOps with AWS on 16th May at 7 PM IST for new batch. Timings are 6 Am to 7.30 AM IST. MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">hai guys my name is  mallikarjun kavali coming to point im learning in devops course in mithuntechnologies bangalore this instiste is very good at plateform evryone . this institute my carrier started so im big respect of him. </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		bangalore info-technologies, 
+		idhira nagar,near juyallukas,
 		Bangalore,
-		+91-9980923226.
+		+91-9515849082.
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:mallikarjuna.kavali0@gmail.com">Mail to mallikarjun</a>
 	</span>
 </div>
 <hr>
@@ -30,7 +30,7 @@
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://bangaloreinfo technologiues/">Mithun Technologies</a> </small></p>
 
 </body>
 </html>
