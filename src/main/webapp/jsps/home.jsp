@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">hai guys my name is  mallikarjun kavali coming to point im learning in devops course in mithuntechnologies bangalore this instiste is very good at plateform evryone . this institute my carrier started so im big respect of him. </h1>
+<h1 align="center">hai guys my name is  mallikarjun kavali coming to point im learning in devops course joined in 07/03/2020 in mithuntechnologies bangalore this instiste is very good at plateform evryone . this institute my carrier started so im big respect of him. </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
